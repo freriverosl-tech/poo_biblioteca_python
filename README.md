@@ -2,7 +2,7 @@
 
 Este proyecto implementa:
 
-- Clase Libro (con encapsulamiento)
+- Clase Libro
 - Clase Biblioteca
 - Clase Estante
 - Métodos accesadores y mutadores
